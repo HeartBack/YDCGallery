@@ -10,3 +10,4 @@ markdown image URL solution 1.0
 必须现在youdao_url中输入分享url，点击save才能使用全局快捷方式。     
 在有道云笔记存入图片必须等有道云自动帮你同步后(或者手动按ctrl+s)，才能获取图片url。      
 一次支持一张图片，本软件获取的是那个资源文件中最后一个图片的url。 
+## 使用详情请进入我的博客查看[博客链接](http://blog.csdn.net/u013119744/article/details/74898032#)
